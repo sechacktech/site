@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Cseréld le a végleges webcímre (lásd README)
+Sitemap: https://sechack.hu/sitemap.xml

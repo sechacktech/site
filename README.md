@@ -42,7 +42,7 @@ Edit a file on GitHub (pencil icon) or push new commits. Pages redeploys automat
 Keep the filenames, or update the references in the HTML.
 - `assets/images/pedro-portrait.webp` — hero image, 960×570 px.
 - `assets/images/pedro-avatar.webp` — square face crop (320×320) used on episode cards and About.
-- `assets/images/sechack-logo.png` / `.webp` — full logo (not used in the nav; the nav logo is HTML/CSS text: “Sec” white + “Hack” cyan). `sechack-wordmark.webp` is the wordmark with the “Pedro @ SecHack” signature, ready for use where a wide logo is needed.
+- `assets/images/sechack-logo.png` / `.webp` — full logo (not used in the nav; the nav logo is HTML/CSS text: “Sec” white + “Hack” cyan).
 - `assets/images/og-image.png` — social share image, 1200×630.
 - `assets/images/favicon.svg` and `apple-touch-icon.png` (180×180).
 
